@@ -40,7 +40,7 @@ A high-performance, real-time person tracking system that leverages state-of-the
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/multi-camera-tracking.git
+   git clone https://github.com/fzkn1998/Advanced-Multi-Camera-Person-Tracking-System.git
    cd multi-camera-tracking
    ```
 
