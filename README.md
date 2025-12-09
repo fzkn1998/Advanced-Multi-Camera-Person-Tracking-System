@@ -41,7 +41,7 @@ A high-performance, real-time person tracking system that leverages state-of-the
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/fzkn1998/Advanced-Multi-Camera-Person-Tracking-System.git
-   cd multi-camera-tracking
+   cd Advanced-Multi-Camera-Person-Tracking-System
    ```
 
 2. **Create and activate a virtual environment** (recommended):
