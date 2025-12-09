@@ -40,17 +40,20 @@ A high-performance, real-time person tracking system that leverages state-of-the
 
 1. **Clone the repository**:
    ```bash
+   
    git clone https://github.com/fzkn1998/Advanced-Multi-Camera-Person-Tracking-System.git
    cd Advanced-Multi-Camera-Person-Tracking-System
    ```
 2. **Create and activate a virtual environment** (recommended):
    ```bash
+   
    firstly download miniconda from https://www.anaconda.com/download/success then,
    conda create -n myenv python=3.10
    conda activate myenv
    ```
 3. **Install dependencies**:
    ```bash
+   
    pip install -r requirements.txt
    ```
 
